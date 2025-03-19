@@ -1,8 +1,3 @@
-//conta, multa, juros mensal, dias de atraso
-//multa é fixo
-//juros é um percentual equivalente a um mês (30 dias)
-//só realizar a conta se estiver com menos de 45 dias de atraso
-
 import java.util.Scanner;
 
 public class ContaAtrasada {

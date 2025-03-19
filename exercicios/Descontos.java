@@ -1,8 +1,6 @@
-//categoria, preço, quantidade
 import java.math.BigDecimal;
 import java.math.RoundingMode;
 import java.util.Scanner;
-
 
 public class Descontos {
     public static Scanner input = new Scanner(System.in);
