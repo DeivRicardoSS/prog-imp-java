@@ -8,8 +8,6 @@ public class Pessoa {
     double altura;
 
     public Pessoa() {
-
-        input.nextLine();
         System.out.print("Nome: ");
         String n = input.nextLine();
         System.out.print("Idade: ");
@@ -23,11 +21,13 @@ public class Pessoa {
         this.idade = i;
         this.peso = p;
         this.altura = a;
+
+        input.nextLine();
     }
 
     public void print(){
         System.out.println("Impressão====================");
-        System.out.printf("(%s, %d anos, %f kg, %f m)\n",
+        System.out.printf("(%s, %d anos, %.1f kg, %.1f m)\n",
         this.nome, this.idade, this.peso, this.altura);
     }
 }
