@@ -24,7 +24,7 @@ public class Aluno {
     }
 
     public boolean aprovado() {
-        if (mediaFinal >= 5) {
+        if (this.mediaFinal >= 5) {
             return true;
         } else {
             return false;
