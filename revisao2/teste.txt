@@ -1,0 +1,37 @@
+1
+Frutas
+3
+Maçã
+1
+Fruta vermelha
+255
+3
+Abacaxi
+1
+Fruta amarela
+659
+3
+Manga
+1
+Fruta rosa
+415
+3
+Maracujá
+1
+Fruta relaxante
+256
+3
+Abacate
+1
+Fruta legal
+854
+3
+Uva
+1
+Fruta doce
+544
+3
+Limão
+1
+Fruta azeda
+268
