@@ -96,7 +96,7 @@ public class Revisao {
     }
 
     public static void imprimirProdutos(Produto[] v, int qtd, Categoria[] cat) {
-        System.out.println("Categorias:======================");
+        System.out.println("Produtos:======================");
         for (int i = 0; i < qtd; i++) {
             System.out.println("Código: " + v[i].codigo);
             System.out.println("Nome: " + v[i].titulo);
